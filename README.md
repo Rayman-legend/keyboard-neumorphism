@@ -12,6 +12,10 @@
   <li>Customization capability</li>
   <li>Not responsive, suitable for PC dimensions</li>
 </ul>
+- - - - - - - - - - - - - - - - - - -  <br>
+🖼️ Picture : 
+<img alt="Picture" src="Pic/Picture-01.png">
+<img alt="Picture" src="Pic/Picture-02.png">
 - - - - - - - - - - - - - - - - - - - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
